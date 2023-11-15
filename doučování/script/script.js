@@ -1,0 +1,3 @@
+const obrazek_1 = "https://th.bing.com/th/id/R.4872bdacdbc1e19fffd22294ddd9de6f?rik=ke%2fJ4t%2bnr9bIDQ&riu=http%3a%2f%2fhdqwalls.com%2fwallpapers%2fguardians-of-the-galaxy-vol-2-cast-lu.jpg&ehk=AQ0P044WXgaShMi9nJn3QChzPHRMVslHrMPjgte5x6s%3d&risl=&pid=ImgRaw&r=0"
+const obrazek_2 = "https://hips.hearstapps.com/esq.h-cdn.co/assets/17/16/1600x800/landscape-1492524044-guardians.jpg?resize=980:*"
+const obrazek_3 = "https://www.billboard.com/wp-content/uploads/media/guardians-of-the-galaxy-billbaord-650.jpg?resize=300"
